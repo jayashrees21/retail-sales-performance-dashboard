@@ -12,7 +12,8 @@ The dashboard provides decision-makers with a consolidated view of retail operat
 ---
 
 ## Dashboard Preview
-Target_Retail_Analytics_Dashboard_Q1_2025.png
+
+![Dashboard](Target_Retail_Analytics_Dashboard_Q1_2025.png)
 
 
 ---
